@@ -4,7 +4,7 @@ layout: post
 ---
 ### Towards virtual physiological humans: integrating metabolism, physiology, and gut-microbiome
 
-<sup>[Science communication](https://microbiomedigest.com/2020/06/09/towards-building-virtual-physiological-humans/) on a recently published paper<sup>
+<sup>[Science communication](https://microbiomedigest.com/2020/06/09/towards-building-virtual-physiological-humans/) on a recently published paper</sup>
 <hr>
 
 #### Precision Medicine
