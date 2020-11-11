@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Divyae Prasad
+name: Div K. Prasad
 
 # Short bio or description (displayed in the header)
 description: computational biology and machine learning researcher
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars0.githubusercontent.com/u/1057676?v=3&s=460
+avatar: https://media-exp1.licdn.com/dms/image/C4D03AQEpJ4If94MeXA/profile-displayphoto-shrink_400_400/0?e=1610582400&v=beta&t=_xdH7XBewTjinSl8R_98UuC2Xkd_XhnTF654wrNDY1c
 
 #
 # Flags below are optional
@@ -20,14 +20,15 @@ avatar: https://avatars0.githubusercontent.com/u/1057676?v=3&s=460
 footer-links:
   dribbble:
   email:
+  linkedin: divyaeprasad
+  github: divprasad
+  twitter: divyaeprasad
+
   facebook:
   flickr:
-  github: divprasad
-  instagram:
-  linkedin: divyaeprasad
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: divyaeprasad
+  instagram:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
