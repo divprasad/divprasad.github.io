@@ -2,7 +2,9 @@
 published: true
 layout: post
 ---
-#### Towards virtual physiological humans: integrating metabolism, physiology, and gut-microbiome
+### Towards virtual physiological humans: integrating metabolism, physiology, and gut-microbiome
+*[Science communication] (https://microbiomedigest.com/2020/06/09/towards-building-virtual-physiological-humans/) on a recently published paper*
+<hr>
 
 ##### Precision Medicine
 A milestone in precision medicine would be the ability to explore [generative models](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) that can capture the real-world complexity of human physiology. If computational models can successfully integrate physiology, metabolism, and host-microbiome data - thereby achieving personalization of predictive models of virtual physiological humans - this would be a key stepping-stone in yielding promising therapeutic targets that are both individual-specific and case-specific. Thus, the science (and art) of [generating and exploring](https://www.sciencedirect.com/science/article/pii/S0092867418305920) virtual physiological humans could be a boon to [systems physiology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3059972/ "Grand Challenges in Systems Physiology") and [precision medicine](https://pubmed.ncbi.nlm.nih.gov/28273479/ "Systems Biology of Metabolism: A Driver for Developing Personalized and Precision Medicine").
